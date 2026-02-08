@@ -1,0 +1,2 @@
+# Requires: hypothetical-unlikelihood
+# (Not available on PyPI)
